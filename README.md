@@ -41,8 +41,8 @@ body{behavior:url(csshover.htc); font-size:75%;}
         <li><a href="https://github.com/DangerousTod">Github</a></li>
         <li><a href="m.facebook.com/jonathan.engwall">facebook</a></li>
 
-      </ul>
-    </div>
+      
+    
   <div>
     <p> I am writing my third novel. The process is brutal. Will you give an applaud if you read one of my stories and maybe think about giving me a follow? </p>
    
