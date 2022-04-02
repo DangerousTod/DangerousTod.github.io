@@ -53,7 +53,7 @@ body{behavior:url(csshover.htc); font-size:75%;}
       <h2>:: April 1st, 2022</h2>
       <p class="news"> Any computer becomes a NAS, check my javascript REPO! </p>
      
-    </div>
+
   
   </div>
   <div id="content">
