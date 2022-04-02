@@ -26,8 +26,7 @@ body{behavior:url(csshover.htc); font-size:75%;}
         <li><a href="https://dangeroustod.github.io/jonathanengwall/Home/index.html" class="top_parent">&nbsp;Homepage</a>
 
         </li>
-      </ul>
-      <ul>
+
         <li><a href="https://dangeroustod.github.io/jonathanengwall/Contact/index.html" class="top_parent">&nbsp;Contact</a></li>
       </ul>
     </div>
@@ -59,7 +58,7 @@ body{behavior:url(csshover.htc); font-size:75%;}
   </div>
   <div id="content">
     <h1>Welcome to Jonathan's <span style="color:#596096;font-weight:bold;">Homepage</span></h1>
-    <blockquote>.<br />
+    <blockquote><br />
       Writer, Coder, Adventurer.</blockquote>
   
   </div>
