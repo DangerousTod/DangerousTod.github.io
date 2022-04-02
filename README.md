@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>HOME</title>
+<title>DangerousTod.github.io</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link href="style.css" rel="stylesheet" type="text/css" />
 <link href="menu.css" rel="stylesheet" type="text/css" />
@@ -23,11 +23,12 @@ body{behavior:url(csshover.htc); font-size:75%;}
   <div id="menuh-container">
     <div id="menuh">
       <ul>
-        <li><a href="https://dangeroustod.github.io/jonathanengwall/Home/index.html" class="top_parent">&nbsp;Homepage</a></li></ul>
+        <li><a href="https://dangeroustod.github.io/jonathanengwall/Home/index.html" class="top_parent">&nbsp;Homepage</a>
 
-    <div>    
-      <ul>
-        <li><a href="https://dangeroustod.github.io/jonathanengwall/Contact/index.html" class="top_parent">&nbsp;Contact</a></li>
+        
+      
+        <a href="https://dangeroustod.github.io/jonathanengwall/Contact/index.html" class="top_parent">&nbsp;Contact</a>
+        </li>  
       </ul>
     </div>
   </div>
