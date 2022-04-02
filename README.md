@@ -25,7 +25,7 @@ body{behavior:url(csshover.htc); font-size:75%;}
       <ul>
         <li><a href="https://dangeroustod.github.io/jonathanengwall/Home/index.html" class="top_parent">&nbsp;Homepage</a></li></ul>
 
-        
+    <div>    
       <ul>
         <li><a href="https://dangeroustod.github.io/jonathanengwall/Contact/index.html" class="top_parent">&nbsp;Contact</a></li>
       </ul>
