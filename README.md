@@ -3,8 +3,8 @@
 <head>
 <title>Home</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<link href="style.css" rel="stylesheet" type="text/css" />
-<link href="menu.css" rel="stylesheet" type="text/css" />
+<link href="https://github.com/DangerousTod/DangerousTod.github.io/jonathanengwall/Home/style.css" rel="stylesheet" type="text/css" />
+<link href="https://github.com/DangerousTod/DangerousTod.github.io/jonathanengwall/Home/menu.css" rel="stylesheet" type="text/css" />
 <!--[if lt IE 8]>
 <style type="text/css" media="screen">
 #menuh{float:none;}
@@ -16,7 +16,7 @@ body{behavior:url(csshover.htc); font-size:75%;}
 </head>
 <body>
 <div id="container">
-  <div id="banner"><img src="img/blue_banner.jpg" alt="logo" title="logo" /></div>
+  <div id="banner"><img src="https://github.com/DangerousTod/DangerousTod.github.io/jonathanengwall/Home/img/blue_banner.jpg" alt="https://github.com/DangerousTod/DangerousTod.github.io/jonathanengwall/Home/logo" title="logo" /></div>
   <div id="bannerb">
     <h3>Jonathan D Engwall</h3>
   </div>
