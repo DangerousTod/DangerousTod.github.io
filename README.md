@@ -24,34 +24,8 @@ body{behavior:url(csshover.htc); font-size:75%;}
     <div id="menuh">
       <ul>
         <li><a href="https://dangeroustod.github.io/jonathanengwall/Home/index.html" class="top_parent">&nbsp;Homepage</a>
-         <! <ul>
-           <! <li><!<a href="#"><!&bull; About</a><!</li>
-          <!</ul>
+
         </li>
-      </ul>
-      <ul>
-<!        <li><!<a href="#" class="top_parent"><!&nbsp;Gallery 1</a>
-<!          <ul>
-<!            <li><!<a href="#"><!&bull; Link 1</a><!</li>
-<!            <li><!<a href="#"><!&bull; Link 2</a><!</li>
-<!            <li><!<a href="#"><!&bull; Link 3</a><!</li>
-<!          </ul>
-<!        </li>
-      </ul>
-      <ul>
-<!        <li><!<a href="#" class="top_parent"><!&nbsp;Gallery 2</a>
-<!          <ul>
-<!            <li><!<a href="#"><!&bull; Link 1</a><!</li>
-<!            <li><!<a href="#"><!&bull; Link 2</a><!</li>
-<!            <li><!<a href="#"><!&bull; Link 3</a><!</li>
-<!          </ul>
-<!        </li>
-      </ul>
-      <ul>
-<!        <li><!<a href="#" class="top_parent"><!&nbsp;Gallery 3</a><!</li>
-      </ul>
-      <ul>
-<!        <li><!<a href="#" class="top_parent"><!&nbsp;Resources</a><!</li>
       </ul>
       <ul>
         <li><a href="https://dangeroustod.github.io/jonathanengwall/Contact/index.html" class="top_parent">&nbsp;Contact</a></li>
@@ -67,7 +41,7 @@ body{behavior:url(csshover.htc); font-size:75%;}
         <li><a href="https://medium.com/@jonathanengwall">Medium</a></li>
         <li><a href="https://github.com/DangerousTod">Github</a></li>
         <li><a href="m.facebook.com/jonathan.engwall">facebook</a></li>
-<!        <li><!<a href="#"><!Listamatic</a><!</li>
+
       </ul>
     </div>
     <p> I am writing my third novel. The process is brutal. Will you give an applaud if you read one of my stories and maybe think about giving me a follow? </p>
@@ -79,28 +53,16 @@ body{behavior:url(csshover.htc); font-size:75%;}
       <p class="news"> Red Rooster, a new Sci-Fi adventure published on Medium!  </p>
       <h2>:: April 1st, 2022</h2>
       <p class="news"> Any computer becomes a NAS, check my javascript REPO! </p>
-      <!<h2><!:: Dec 02 2005</h2>
-      <!<p class="news"><! Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. </p>
+     
     </div>
-    <!<h1><!More Info</h1>
-    <!<p> <!Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. </p>
-    <!<ul>
-      <!<li><!<a href="#"><!Link 1</a><!</li>
-      <!<li><!<a href=<!"#"><!Link 2<!</a><!</li>
-      <!<li><!<a href="#"><!Link 3</a><!</li>
-    <!</ul>
-    <!<p><!Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+  
   </div>
   <div id="content">
     <h1>Welcome to Jonathan's <span style="color:#596096;font-weight:bold;">Homepage</span></h1>
     <blockquote>.<br />
       Writer, Coder, Adventurer.</blockquote>
-    <!<p><!Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. </p>
-<!    <h1><!Filler Text</h1>
-<!   <p><!This is a <a href="#"><!link</a> <!to nowhere. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. </p>
-<!    <h1><!More Filler Text</h1>
-<!    <p><!Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla congue, velit tristique mattis auctor, velit elit euismod diam, a interdum tortor enim eget ante. </p> >
-<!  </div>
+  
+  </div>
   <div style="clear:both"> </div>
   <div id="footer"> <a href="https://dangeroustod.github.io/jonathanengwall/Home/index.html">Homepage</a> | <a href="https://dangeroustod.github.io/jonathanengwall/Contact/index.html">contact</a> | <a href="http://validator.w3.org/check?uri=referer">html</a> | <a href="http://jigsaw.w3.org/css-validator">css</a> | &copy; 2007 Anyone | Design by <a href="http://www.mitchinson.net"> www.mitchinson.net</a> | This work is licensed under a <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a> </div>
 </div>
